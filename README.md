@@ -2,7 +2,7 @@
 ## Async FastAPI + Django
 ```uv pip sync requirements.txt```
 
-###Set up DB
+### Set up DB
 ```bash
 python manage.py makemigrations
 python manage.py migrate
