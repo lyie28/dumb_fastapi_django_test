@@ -17,3 +17,5 @@ DATABASES = {
 
 SECRET_KEY = 'your-secret-key'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+ASGI_APPLICATION = "app.main:app"

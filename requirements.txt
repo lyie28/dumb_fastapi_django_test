@@ -1,5 +1,7 @@
 fastapi
-uvicorn
+uvicorn[standard]
 django
 asgiref
 pydantic
+click
+sse-starlette
